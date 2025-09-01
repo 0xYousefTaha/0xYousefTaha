@@ -1,4 +1,4 @@
-<h1 align="center">Hello, folks!👋, I'm Youssef Eltaranisy</h1>
+<h1 align="center">Hello folks!👋, I'm Youssef Eltaranisy</h1>
 <h3 align="center">A passionate Offensive Security Engineer from Egypt.</h3>
 
 <h1>🚀 About Me</h1>
