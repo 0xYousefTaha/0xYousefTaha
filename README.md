@@ -10,7 +10,7 @@
 
 <h1>🔥 Highlights</h1>
 <p>- 🛡️ Certified eJPTv2 (eLearnSecurity Junior Penetration Tester)  </p>
-<p>- 🚀 Hands-on experience in Web Application Security, Network Penetration Testing, and Active Directory  </p>
+<p>- 🚀 Hands-on experience in Web Application Security, Network and Active Directory Penetration Testing   </p>
 <p>- 🐍 Strong Python skills for automation, scripting, and custom security tools </p> 
 <p>- 🎮 Completed 50+ CTF challenges on TryHackMe and practiced web security labs on PortSwigger Academy </p>
 
