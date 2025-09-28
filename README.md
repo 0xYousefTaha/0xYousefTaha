@@ -55,7 +55,7 @@
    <!--  -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/youssef-taha-4a439b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/youssef-taha-4a439b1ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef-taha-4a439b1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/youssef-taha-4a439b1ab" height="30" width="40" /></a>
 <a href="mailto:lyouseftahal@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="30" width="30" /></a>
 </p>
  
