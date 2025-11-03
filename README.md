@@ -2,10 +2,9 @@
 <h3 align="center">Python Developer | Application Security Engineering</h3>
 
 <h1>🚀 About Me </h1>
-.
-.
-.
-.
+I'm a Python Developer and Application Security Engineer focused on building and hardening web applications and APIs. Design and implement secure, maintainable systems using Python and modern web frameworks. Embed security throughout the development lifecycle and testing For OWASP Top 10 vulnerabilities.
+
+
 
 
 <h1>🔥 Highlights</h1>
