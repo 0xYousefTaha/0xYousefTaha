@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks!👋, I'm Youssef Eltaranisy</h1>
-<h3 align="center">A passionate Offensive Security Engineer | Python developer</h3>
+<h3 align="center">Python Developer | Application Security Engineering</h3>
 
 <h1>🚀 About Me </h1>
 .
