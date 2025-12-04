@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Application Security Engineering</h3>
 
 <h1>🚀 About Me </h1>
-I'm a Python Developer and Application Security Engineer focused on building and hardening web applications and APIs. Design and implement secure, maintainable systems using Python and modern web frameworks. Embed security throughout the development lifecycle and testing For OWASP Top 10 vulnerabilities.
+I’m a Cybersecurity Engineer with a strong foundation in networking, core security concepts, and hands-on experience in Python scripting and automation. I specialize in network and application penetration testing, with practical skills through the eJPTv2 certification and hands-on practice on PortSwigger Web Security Labs.
 
 
 
