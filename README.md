@@ -12,7 +12,7 @@ I’m a Cybersecurity Engineer with a strong foundation in networking, core secu
 <p>- 🛡️ Certified eJPTv2 (eLearnSecurity Junior Penetration Tester)  </p>
 <p>- 🚀 Hands-on experience in Web Application Security, Network and Active Directory Penetration Testing   </p>
 <p>- 🐍 Strong Python skills for automation, scripting, and custom security tools </p> 
-<p>- 🎮 Completed 50+ CTF challenges on TryHackMe and practiced web security labs on PortSwigger Academy </p>
+<p>- 🎮 Completed 100+ CTF challenges on TryHackMe, HackTheBox and practiced web security labs on PortSwigger Academy </p>
 
 
 ## 🚀 Languages and Tools
