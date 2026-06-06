@@ -1,5 +1,5 @@
-<h1 align="center">Hello folks!👋, I'm Youssef Eltaranisy</h1>
-<h3 align="center">Python Developer | Application Security Engineering</h3>
+<h1>Youssef Eltaranisy</h1>
+<h3 align="center"> Penetration Tester | Application Security Engineering</h3>
 
 <h1>🚀 About Me </h1>
 I’m a Cybersecurity Engineer with a strong foundation in networking, core security concepts, and hands-on experience in Python scripting and automation. I specialize in network and application penetration testing
